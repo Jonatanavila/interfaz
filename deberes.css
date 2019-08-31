@@ -1,0 +1,30 @@
+h1 {
+  color: firebrick; 
+  text-align:center; 
+  background-color:silver;
+  font-family: arial;
+}
+
+h2 {                      
+  color:  firebrick; 
+  font-family: arial;
+  text-decoration: underline;
+  background-color:silver; 
+  width: 105px; height: 25px;
+  background-image: gradient(...);
+  }
+
+
+a {                
+  color: firebrick ; 
+  font-family: arial;
+  font-size: 20px;
+  background-color:silver;
+  width: 105px; height: 25px;
+  background-image: gradient(...);
+}
+
+
+body {
+   background-image:url("3.jpg"); 
+}
